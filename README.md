@@ -2,7 +2,7 @@
 
 Este proyecto se enfoca en el procesamiento de audio en español, proporcionando la capacidad de traducirlo a varios idiomas, incluyendo inglés, italiano, francés y japonés. El sistema devuelve el resultado traducido en formato de audio, generado mediante inteligencia artificial de voz, ofreciendo una experiencia eficiente y precisa en la conversión de texto a voz.
 
-## Variables de Entorno
+## Librerias
 
 Para ejecutar este proyecto, es necesario configurar varias variables de entorno, las cuales son:
 
